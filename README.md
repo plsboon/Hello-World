@@ -1,3 +1,4 @@
 # Hello-World
-How to use GitHub
-Another line for hello
+How to use GitHub\n
+Another line for hello\n
+Yet another line for hello\n
